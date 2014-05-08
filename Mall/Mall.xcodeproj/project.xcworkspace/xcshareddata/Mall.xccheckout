@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D28B1D48-6622-4FEE-BEBC-45861A40E9A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mall</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A47C67BE-F990-43EE-B6E3-3D2D4F02A409</key>
+		<string>ssh://github.com/runfawu/Mall_1.0.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mall/Mall.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A47C67BE-F990-43EE-B6E3-3D2D4F02A409</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/runfawu/Mall_1.0.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A47C67BE-F990-43EE-B6E3-3D2D4F02A409</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A47C67BE-F990-43EE-B6E3-3D2D4F02A409</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mall_1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
